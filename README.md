@@ -1,1 +1,1 @@
-# Estrutura-sequencial
+# EstruturaSequencialPython
